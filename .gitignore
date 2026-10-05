@@ -1,0 +1,9 @@
+node_modules/
+dist/
+server/node_modules/
+server/data.sqlite
+server/uploads/
+server/.env
+.env
+*.log
+server/data.sqlite*
